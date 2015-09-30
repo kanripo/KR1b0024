@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 胡氏尚書詳解
-#+DATE: 2015-09-23 09:36:03
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:02:29.336757
+#+PROPERTY: ID KR1b0024
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1b0024_WYG_000-1a>¶
 欽定四庫全書　　　　　經部二¶
 　尚書詳解　　　　　　　書𩔖¶
@@ -25,6 +27,7 @@
 　　　　恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1b0024_WYG_000-3a>¶
 尚書詳解原序¶
 　尚書史官所紀孔子刪之始皇燒之孔襄藏之至漢¶
@@ -115,4 +118,3 @@
 　¶
 　¶
 　尚書詳解原序¶
-
